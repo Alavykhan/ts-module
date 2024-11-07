@@ -35,5 +35,6 @@
          goriban.deposit=50;
         const myBalance = goriban.Balance;
         console.log(myBalance);
+        
     //
 }
