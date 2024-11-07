@@ -26,7 +26,7 @@
 
     class childAccount extends BankAccount{
         test(){
-            this.
+            this._balance
         }
     }
 
